@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.bgim-pattern{
+    background-color: #fdfdfd;
+    opacity: 1;
+    background: linear-gradient(135deg, #c5b69955 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #c5b699 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #c5b69955 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #c5b699 25%, #fdfdfd 25%) 0px 0/ 20px 20px;
+    width: 100vw;
+    height: 100vh;
+}

@@ -1,0 +1,9 @@
+.bgim-pattern{
+    background-color: #ffefd9;
+    opacity: 0.8;
+    background-image:  linear-gradient(30deg, #7c5d29 12%, transparent 12.5%, transparent 87%, #7c5d29 87.5%, #7c5d29), linear-gradient(150deg, #7c5d29 12%, transparent 12.5%, transparent 87%, #7c5d29 87.5%, #7c5d29), linear-gradient(30deg, #7c5d29 12%, transparent 12.5%, transparent 87%, #7c5d29 87.5%, #7c5d29), linear-gradient(150deg, #7c5d29 12%, transparent 12.5%, transparent 87%, #7c5d29 87.5%, #7c5d29), linear-gradient(60deg, #7c5d2977 25%, transparent 25.5%, transparent 75%, #7c5d2977 75%, #7c5d2977), linear-gradient(60deg, #7c5d2977 25%, transparent 25.5%, transparent 75%, #7c5d2977 75%, #7c5d2977);
+    background-size: 20px 35px;
+    background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+    width: 100vw;
+    height: 100vh;
+}
